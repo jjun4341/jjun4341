@@ -10,4 +10,8 @@
 
 - 🤔 I’m looking for help with bot development. <br>
 
-- 📫 How to reach me: Discord 땅콩#7610, Kakao Talk jjun4341 <br>
+- 📫 How to reach me: Discord 땅콩#7610, Kakao Talk jjun4341 <br><br>
+
+
+This code was written at the end of 2020: <br>
+a = c.execute("SELECT * FROM servertable WHERE in description=?", (you_want_description))
