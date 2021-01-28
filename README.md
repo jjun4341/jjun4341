@@ -12,4 +12,4 @@
 
 - 📫 ConTacts: Discord 땅콩#7610, Kakao Talk jjun4341 <br><br>
 
-[https://github-readme-stats.vercel.app/api?username=jjun4341](https://github.com/anuraghazra/github-readme-stats)
+[![jjun4341's github stats](https://github-readme-stats.vercel.app/api?username=jjun4341)](https://github.com/jjun4341)
