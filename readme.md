@@ -1,6 +1,6 @@
 Hi There!
 
-I'am a Developer, and I development **Discord Bot**.
+I am a Developer, and I development **Discord Bot**.
 
 ConTact : <br>
 Discord - 땅콩#7610 <br>
