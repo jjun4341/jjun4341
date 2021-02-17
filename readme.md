@@ -6,5 +6,5 @@ ConTact : <br>
 Discord - 땅콩#7610 <br>
 KakaoTalk - jjun4341
 
-![jjun4341's GitHub stats](https://github-readme-stats.vercel.app/api?username=jjun4341&show_icons=true&theme=radical) <br>
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jjun4341&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+![jjun4341's GitHub stats](https://github-readme-stats.vercel.app/api?username=jjun4341&show_icons=true&theme=dark) <br>
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jjun4341&layout=compact&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
