@@ -5,6 +5,8 @@
   
   I am a Developer, and I Develop **Discord Bot**, **Software**, **Web**
   
+  and I like ❤**IU**❤
+  
   # I Use
   
   <img src="https://img.shields.io/badge/Python-3766AB?style=flat-square&logo=Python&logoColor=white"/></a> 
