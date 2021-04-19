@@ -19,7 +19,7 @@
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=Python&logoColor=white"/></a> 
   
   # ConTact
-  Discord - 땅콩#7610 <br>
+  Discord - 땅콩#0516 <br>
   KakaoTalk - jjun4341 <br>
   Email - jjun4341@naver.com / teambitmails@gmail.com
   
